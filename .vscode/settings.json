@@ -1,0 +1,4 @@
+{
+    "C_Cpp.default.compilerPath": "C:/Users/perepetskiy.dm/.platformio/packages/toolchain-xtensa-esp32/bin/xtensa-esp32-elf-gcc.exe",
+    "cmake.sourceDirectory": "C:/Users/LAB/Documents/PlatformIO/Projects/HOR_SpreaderX/.pio/libdeps/HOR_SpreaderX/ESPAsyncWebServer-esphome"
+}
